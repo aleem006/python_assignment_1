@@ -26,7 +26,7 @@ def decrypt(n, ciphertext):
 
     return result
 
-text = "I am coding Python on SoloLearn!"
+text = "I am coding Python!"
 offset = 5
 
 encrypted = encrypt(offset, text)
